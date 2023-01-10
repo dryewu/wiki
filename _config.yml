@@ -6,6 +6,3 @@ url: https://dryewu.github.io/wiki
 
 aux_links:
   Template Repository: https://github.com/dryewu/wiki
-
-plugins:
-  - jekyll-default-layout
